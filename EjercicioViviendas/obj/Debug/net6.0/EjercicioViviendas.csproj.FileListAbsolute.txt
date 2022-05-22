@@ -1,0 +1,15 @@
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\obj\Debug\net6.0\EjercicioViviendas.csproj.AssemblyReference.cache
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\obj\Debug\net6.0\EjercicioViviendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\obj\Debug\net6.0\EjercicioViviendas.AssemblyInfoInputs.cache
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\obj\Debug\net6.0\EjercicioViviendas.AssemblyInfo.cs
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\obj\Debug\net6.0\EjercicioViviendas.csproj.CoreCompileInputs.cache
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\bin\Debug\net6.0\EjercicioViviendas.exe
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\bin\Debug\net6.0\EjercicioViviendas.deps.json
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\bin\Debug\net6.0\EjercicioViviendas.runtimeconfig.json
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\bin\Debug\net6.0\EjercicioViviendas.dll
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\bin\Debug\net6.0\EjercicioViviendas.pdb
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\obj\Debug\net6.0\EjercicioViviendas.dll
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\obj\Debug\net6.0\refint\EjercicioViviendas.dll
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\obj\Debug\net6.0\EjercicioViviendas.pdb
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\obj\Debug\net6.0\EjercicioViviendas.genruntimeconfig.cache
+C:\Users\Alicia\Desktop\NET\EjercicioViviendas\obj\Debug\net6.0\ref\EjercicioViviendas.dll
